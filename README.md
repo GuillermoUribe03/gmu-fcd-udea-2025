@@ -7,10 +7,10 @@ Aquí se gestionan los artículos, sesiones prácticas y el proyecto de aula, si
 
 ## Índice
 
-1. [Descripción general](#-descripción-general)
-2. [Instrucciones de ejecución](#-instrucciones-de-ejecución)
-3. [Autor](#-autor)
-4. [Dependencias](#-dependencias)
+1. [Descripción general](#descripción-general)
+2. [Instrucciones de ejecución](#instrucciones-de-ejecución)
+3. [Autor](#autor)
+4. [Dependencias](#dependencias)
 
 ---
 
@@ -35,7 +35,8 @@ _(El tema del proyecto principal será definido más adelante y se actualizará 
 
 ## Autor
 
-Guillermo Mejía Uribe
+Guillermo Mejía Uribe.
+
 guillermo.mejia@udea.edu.co
 
 ---
